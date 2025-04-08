@@ -1,0 +1,13 @@
+package Program;
+
+public class Pessoa {
+	
+	private static int counter = 1;
+	
+	private String Nome;
+	private String CPF;
+	private String Email;
+
+	
+	
+}

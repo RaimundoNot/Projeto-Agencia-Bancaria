@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\temp\ws-banco-projeto\.metadata\.plugins\org.eclipse.jdt.core
+2495808948.index
+1865797976.index
+2924161555.index
